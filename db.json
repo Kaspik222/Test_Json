@@ -2,6 +2,6 @@
   "posts": [
     { 
       "id": 1, 
-      "colors": ['btn-danger', 'btn-info', 'btn-warning', 'btn-success'],
+      "colors": ["btn-danger", "btn-info", "btn-warning", "btn-success"],
     },
 }
