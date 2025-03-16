@@ -1,0 +1,5 @@
+{
+  "posts": [
+    { "id": 1, "title": "Test Post", "body": "This is a test" }
+  ]
+}
