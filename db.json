@@ -3,5 +3,5 @@
     { 
       "id": 1, 
       "colors": ["btn-danger", "btn-info", "btn-warning", "btn-success"],
-    },
+    }
 }
